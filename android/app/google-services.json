@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727738564156",
+    "project_id": "tamini-cb724",
+    "storage_bucket": "tamini-cb724.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727738564156:android:981df80d36eba9c3760d39",
+        "android_client_info": {
+          "package_name": "com.example.tamini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuli_Rim2wZE-k8JZBmdfn9DyWeVrL_Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
